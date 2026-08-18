@@ -1,0 +1,21 @@
+---
+photos:
+  - title: "Event Coverage"
+    image: "/assets/images/event.jpg"
+    category: "Events"
+  - title: "Product Shot"
+    image: "/assets/images/product.jpg"
+    category: "Products"
+  - title: "Portrait"
+    image: "/assets/images/portrait.jpg"
+    category: "Portraits"
+  - title: "Landscape"
+    image: "/assets/images/landscape.jpg"
+    category: "Landscapes"
+  - title: "Himalayas"
+    image: "/assets/images/himalayas.jpg"
+    category: "Landscapes"
+  - title: "Studio"
+    image: "/assets/images/studio.jpg"
+    category: "Studio"
+---
